@@ -1,2 +1,2 @@
 # WeatherApp
-Usando aws lambda, se obtienen datos que van a una base en IBM DB2.
+Usando aws lambda, se obtienen datos que van a una DB en IBM DB2.
